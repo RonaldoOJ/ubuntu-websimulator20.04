@@ -75,7 +75,7 @@ export class AboutVivek extends Component {
                     <span className=" ml-1 md:ml-2 text-gray-50 ">Resume</span>
                 </div>
                 <div className='my-0.5 w-28 md:w-full h-8 px-2 md:px-2.5 flex' >
-                    <iframe src="https://github.com/sponsors/RonaldoOJ" title="Sponsor RonaldoOJ" width={"100%"} height={"100%"} ></iframe>
+                    <iframe src="https://github.com/sponsors/RonaldoOJ/card" title="Sponsor RonaldoOJ" width={"100%"} height={"100%"} ></iframe>
                 </div>
             </>
         );
@@ -162,7 +162,7 @@ function Education() {
                 </li>
                 <li className="list-disc mt-5">
                     <div className=" text-lg md:text-xl text-left font-bold leading-tight">
-                        Class 12<sup>th</sup>
+                        Class 2022<sup>th</sup>
                     </div>
                     <div className=" text-sm text-gray-400 mt-0.5">2019 - 2022</div>
                     <div className=" text-sm md:text-base">CBTis 83</div>
