@@ -29,7 +29,7 @@ const apps = [
     },
     {
         id: "about-vivek",
-        title: "About Vivek",
+        title: "About Ronaldo",
         icon: './themes/Yaru/system/user-home.png',
         disabled: false,
         favourite: true,
@@ -98,18 +98,18 @@ const apps = [
         favourite: false,
         desktop_shortcut: true,
         isExternalApp: true,
-        url: "https://github.com/vivek9patel",
+        url: "https://github.com/RonaldoOJ",
         screen: () => {},
     },
     {
         id: "tars",
-        title: "Ask Tars",
+        title: "LinkedIn",
         icon: './themes/Yaru/apps/tars.svg',
         disabled: false,
         favourite: false,
         desktop_shortcut: true,
         isExternalApp: true,
-        url: "https://www.vivek9patel.com/tars"
+        url: "https://www.linkedin.com/in/ronaldoolverajimenez2004/"
     },
 ]
 
